@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello I'm KimJaeHee👋  I'm attending Gyeong-gi GameMeister High School!
 
-<!--
-**ahslxjvhapt12/ahslxjvhapt12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahslxjvhapt12&show_icons=true&theme=radical)  
 
-Here are some ideas to get you started:
+Studying to become a game developer!
+   
+I learned these
+-------------
+>![C#](https://img.shields.io/badge/sharp-99CC00.svg?&style=for-the-badge&logo=sharp&logoColor=white)
+>![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+>![C++](https://img.shields.io/badge/C++-FFC0CB.svg?&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Baekjoon Online Judge
+-------------
+CodingTest  
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=book3123)](https://solved.ac/book3123/)
+
+ <a href="http://ggm.gondr.net/user/profile/269">
+ My portfolio link!
+</a>
