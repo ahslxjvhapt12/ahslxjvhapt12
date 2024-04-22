@@ -18,6 +18,6 @@ CodingTest
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=book3123)](https://solved.ac/book3123/)
 
- <a href="http://ggm.gondr.net/user/profile/269">
+ <a href="https://ggm.gondr.net/user/profile/238">
  My portfolio link!
 </a>
